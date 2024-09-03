@@ -1,0 +1,163 @@
+body {
+    font-family: "Righteous", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title {
+    background-color: black;
+    color: #fff;
+}
+
+#font-h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: white;
+    padding-top: 10%;
+}
+
+#camisa-real {
+    width: 71%;
+    padding: 0;
+    position: relative;
+    bottom: -4%;
+    transform: scale(1.2);
+    left: 2%;
+}
+
+#logo {
+    font-size: 3.5rem;
+    font-family: "Montserrat-Bold";
+    /* filter: drop-shadow(0px 0px 30px orange); */
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+#testimonials {
+    position: sticky;
+    background-color: black;
+    padding: 200px 300px;
+    padding-bottom: 600px;
+    text-align: center;
+    color: #fff;
+    min-height: 800px;
+    max-height: 900px;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 50%;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.botao {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+.posicao {
+    position: relative;
+    left: -24%;
+}
+
+.icon {
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: orange;
+}
+
+.carouse {
+    text-align: center;
+}
+
+.sel {
+    padding-top: 1px;
+    max-height: 700px;
+    min-height: 700px;
+}
+
+#barca {
+    transform: scale(0.9);
+}
+
+#press {
+    padding-top: 100px;
+    text-align: center;
+}
+
+#popular {
+    position: relative;
+    left: 21%;
+    border: solid 2px black;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    background-color: orange;
+}
+
+#insta {
+    text-align: center;
+    padding: 10% 0% 2%;
+}
+
+#zap {
+    color: greenyellow;
+}
+
+.zap {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#dow {
+    color: #fff;
+}
+
+#preco {
+    padding: 300px 0px 50px;
+    text-align: center;
+}
